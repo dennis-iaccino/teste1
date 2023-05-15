@@ -1,4 +1,4 @@
-title: Teste
+title: Aplicativo Dennis (Teste)
 author:
   name: Dennis J. Iaccino
   email: iaccino89@gmail.com
@@ -6,9 +6,8 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  Natural de Brasília-DF, Dennis Iaccino é estudante de Desenvolvimento de Aplicativos. A presente página destina-se,
+  portanto, a executar os ensinamentos obtidos em aula.
 
 # Build settings
 
